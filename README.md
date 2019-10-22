@@ -1,6 +1,12 @@
-# WhatIsBlockchain
+# What Is Blockchain?
+
+自分なりにブロックチェーンを説明したサイトのソースコード．
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
+
+## References
+
+- [【動画で学ぶブロックチェーン】Bitcoin を支える技術概論 - 谷口耕平氏](https://www.youtube.com/watch?v=lA64-f9kVdE)
 
 ## Development server
 
@@ -25,4 +31,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# what-is-blockchain
